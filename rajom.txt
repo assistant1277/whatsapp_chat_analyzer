@@ -1,0 +1,15 @@
+30/09/22, 10:29 pm - Shivraj Ghangale: Pd.read_csv(text file)
+
+Pd.to_csv(any file name.csv)
+30/09/22, 10:30 pm - Om Awari: ok hya commands ahet ka
+30/09/22, 10:30 pm - Om Awari: first file read karayala
+30/09/22, 10:30 pm - Shivraj Ghangale: Aplya,genius group madhech rahude
+30/09/22, 10:31 pm - Om Awari: and second one file read karayala
+30/09/22, 10:31 pm - Om Awari: tithe pn nko takus
+30/09/22, 10:31 pm - Om Awari: aplyakadech rahude tyani magitala tr send kr
+30/09/22, 10:31 pm - Shivraj Ghangale: Hich ahe
+30/09/22, 10:31 pm - Om Awari: ok
+30/09/22, 10:31 pm - Shivraj Ghangale: Thike
+30/09/22, 10:32 pm - Om Awari: chal me try krto ekda
+30/09/22, 10:32 pm - Shivraj Ghangale: Thike
+30/09/22, 10:32 pm - Shivraj Ghangale: Udya 11
